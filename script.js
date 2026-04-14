@@ -10,7 +10,7 @@ let player = document.querySelector("#player");
 
 // variables for the ground tiles 
 let platformPosX = 0;
-let platformSpeed = 1.3;
+let platformSpeed = 1.5;
 let platformWidth;
 let BLOCK_SIZE = 64;
 
